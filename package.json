@@ -1,14 +1,22 @@
 {
   "name": "Trials-code-Review",
   "version": "1.0.0",
-  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "description": "**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacCrazyman/Trials-code-Review.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MacCrazyman/Trials-code-Review/issues"
+  },
+  "homepage": "https://github.com/MacCrazyman/Trials-code-Review#readme",
   "devDependencies": {
     "hint": "^6.1.6",
     "stylelint": "^13.13.1",
